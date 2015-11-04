@@ -1,5 +1,5 @@
 # check_multiprocs
-## Combine multiple "check_procs" nagios checks
+#### Combine multiple "check_procs" nagios checks
 
 This script combines multiple checks of the Nagios "check_procs" plugin.
 The process names to check can be specified either by a configuration file
